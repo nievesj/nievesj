@@ -75,3 +75,11 @@ Unannounced title. UI Engineer translating Figma designs into functional game UI
 LiveOps and SDK work for the mobile/PC title. Led the team's move from Perforce to GitHub, and rebuilt the CI/CD pipeline from Jenkins to GitHub Actions.
 
 **Earlier:** Contributions to Twitch Sings, Poptropica, and other titles at Tricky Fast Studios. Backend and database work at Brinker International (Chili's, ~1,200 locations).
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
+</div>
