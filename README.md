@@ -80,6 +80,6 @@ LiveOps and SDK work for the mobile/PC title. Led the team's move from Perforce 
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=nievesj&color=blue)
 
 </div>
