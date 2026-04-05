@@ -58,23 +58,6 @@ I work fully remote and have for years. Fluent in English and Spanish.
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-010101?style=flat-square&logo=github&logoColor=white)
 ![AI Assisted Dev](https://img.shields.io/badge/AI%20Assisted%20Development-FF6B6B?style=flat-square&logoColor=white)
 
----
-
-## Shipped Work
-
-**[Wayfinder](https://store.steampowered.com/app/1343400/Wayfinder/)** — Airship Syndicate (2022–2024)<br/>
-Steam Early Access + PS4/PS5. Senior UI Engineer on Unreal Engine 5. Built the in-game store, reward tower, and season pass features end-to-end. Heavy UMG and C++ work, with a lot of coordination between the UI team and backend/publisher systems.
-
-**Wildgate** — Moonshot Games (2024–2025)<br/>
-Senior Engineer building data-driven UI widgets using CommonUI and MVVM patterns, and integrating AccelByte Commerce API.
-
-**Mob Entertainment** — (2025)<br/>
-Unannounced title. UI Engineer translating Figma designs into functional game UI with MVVM patterns in Unreal Engine.
-
-**[Star Trek Timelines](https://store.steampowered.com/app/600470/Star_Trek_Timelines/)** — Wicked Realm Games / Tilting Point (2021–2022)<br/>
-LiveOps and SDK work for the mobile/PC title. Led the team's move from Perforce to GitHub, and rebuilt the CI/CD pipeline from Jenkins to GitHub Actions.
-
-**Earlier:** Contributions to Twitch Sings, Poptropica, and other titles at Tricky Fast Studios. Backend and database work at Brinker International (Chili's, ~1,200 locations).
 
 ---
 
