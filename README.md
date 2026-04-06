@@ -25,7 +25,7 @@ Most of my recent work has been in Unreal Engine at studios like Airship Syndica
 
 I work fully remote and have for years. Fluent in English and Spanish.
 
-**Looking for:** Senior or Lead roles in game development (Unreal UI, gameplay systems, backend integration) or software engineering roles where deep C++ or C# experience matters.
+**Looking for:** Senior roles in game development (Unreal UI, gameplay systems, backend integration) or software engineering roles where deep C++ or C# experience matters.
 
 ---
 
